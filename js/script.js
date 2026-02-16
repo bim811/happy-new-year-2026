@@ -555,7 +555,7 @@ let WISH_MESSAGES = [
 	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
 	"Chúc gia đình em luôn bình an và hạnh phúc ❤️",
 	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc em sớm có được anh 🥲",
+	"Chúc em sớm có được anh 😂",
 	"Chúc em luôn mỉm cười và yêu đời mỗi ngày 😊",
 	"Chúc em gặp nhiều may mắn và niềm vui 🎉",
 ];
